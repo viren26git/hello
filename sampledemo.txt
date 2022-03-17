@@ -1,1 +1,3 @@
 today is thursday....
+but tomorrow is friday
+and we are learning last sesion of github
